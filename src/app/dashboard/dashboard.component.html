@@ -1,0 +1,17 @@
+<div *ngIf="canForce">
+	<input [(ngModel)]="forcedUser" />
+	<button (click)="changeUser()">Force !</button>
+</div>
+
+<div class="row" *ngIf="error">
+<span>{{error}} <a href="../..">Log here</a></span>
+</div>
+<div class="row">
+	<div class="col-md-6">
+		<i *ngIf="!me || !me.name" class="fa fa-pulse fa-spinner fa-3x"></i>
+		<app-user *ngIf="me.name" [user]="me"></app-user>
+	</div>
+	<div class="col-md-6">
+		<app-ranking></app-ranking>
+	</div>
+</div>

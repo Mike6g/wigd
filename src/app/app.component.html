@@ -1,3 +1,23 @@
-<h1>
+<!-- <h1>
   {{title}}
-</h1>
+</h1> -->
+<nav class="navbar navbar-light bg-faded">
+  <a class="navbar-brand" href="#">WIGD</a>
+  <ul class="nav navbar-nav pull-xs-right">
+    <li class="nav-item" routerLinkActive="active">
+      <a class="nav-link" href="#" routerLink="/dashboard">Game</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="../..">Forum</a>
+    </li>
+    <li class="nav-item" routerLinkActive="active">
+      <a class="nav-link" routerLink="/rules">Rules</a>
+    </li>
+    <li class="nav-item" routerLinkActive="active">
+      <a class="nav-link" routerLink="/about">About</a>
+    </li>
+  </ul>
+</nav>
+<router-outlet></router-outlet>
+
+<div class="version">1.0.1</div>

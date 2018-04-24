@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disparitions : Toute l'actualité sur Le Monde.fr.</title>
+    <description>Disparitions - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique Disparitions sur Le Monde.fr.</description>
+    <copyright>Copyright Le Monde.fr</copyright>
+    <link>https://www.lemonde.fr/disparitions/rss_full.xml</link>
+    <atom:link href="https://www.lemonde.fr/disparitions/rss_full.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Oct 2016 16:18:45 +0200</pubDate>
+    <image>
+      <url>https://www.lemonde.fr/medias/web/img/export/logo_lmfr_90x20_export.png</url>
+      <title>Disparitions : Toute l'actualité sur Le Monde.fr.</title>
+      <link>https://www.lemonde.fr/disparitions/rss_full.xml</link>
+    </image>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/23/le-dessinateur-de-comics-et-cocreateur-de-preacher-steve-dillon-est-mort_5018823_3382.html</link>
+      <title>Le dessinateur de comics et cocréateur de « Preacher » Steve Dillon est mort</title>
+      <description>L’artiste britannique a révolutionné, avec plusieurs de ses compatriotes, la bande dessinée américaine pour adultes.</description>
+      <pubDate>Sun, 23 Oct 2016 15:41:19 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5018823/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/23/644x322/5018818_3_d86a_2016-10-23-d758618-23998-1eef9v0-l6vwqdj9k9_015bdd0612bfa06c05215a94128e6915.jpg" type="image/jpeg" length="42934"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/cinema/article/2016/10/21/l-acteur-clement-michu-est-mort_5018174_3476.html</link>
+      <title>L’acteur Clément Michu est mort</title>
+      <description>Habitué des seconds rôles, il a notamment joué dans « Les Aventures de Rabbi Jacob » et « La Grande Vadrouille ».</description>
+      <pubDate>Fri, 21 Oct 2016 16:16:07 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5018174/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/21/644x322/5018173_3_a2be_clement-michu-et-yves-renier-dans-un-episode-du_e31742f482e9a86caf71701042ce06a8.jpg" type="image/jpeg" length="32068"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/culture/article/2016/10/19/mort-de-la-grande-danseuse-etoile-yvette-chauvire_5016766_3246.html</link>
+      <title>La danseuse étoile Yvette Chauviré a filé</title>
+      <description>Considérée comme la plus grande ballerine française, elle est morte le 19 octobre à l’âge de 99 ans.</description>
+      <pubDate>Wed, 19 Oct 2016 22:39:32 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5016766/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/20/644x322/5017527_3_664e_la-danseuse-etoile-yvette-chauvire-a-l_8266762946f12840d2670d20919f7ce2.jpg" type="image/jpeg" length="31259"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/13/le-roi-bhumibol-de-thailande-est-mort_5013080_3382.html</link>
+      <title>Thaïlande : le roi Bhumibol s’est éteint après soixante-dix ans de règne</title>
+      <description>Jouissant d’une popularité et d’un respect sans pareils en Thaïlande, Bhumibol Adulyadej est mort jeudi à l’âge de 88 ans.</description>
+      <pubDate>Thu, 13 Oct 2016 13:56:30 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5013080/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/13/644x322/5013079_3_dfb3_photo-non-datee-du-roi-bhumibol-et-de-sa-femme_3f06435f69ae5c1ab450f75509626701.jpg" type="image/jpeg" length="39624"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/13/mort-de-l-ecrivain-italien-dario-fo-prix-nobel-de-litterature-en-1997_5012848_3382.html</link>
+      <title>Mort de l’écrivain italien Dario Fo</title>
+      <description>L’imprévisible dramaturge est mort à 90 ans, un peu avant l’annonce du prix Nobel de littérature, qu’il avait reçu en 1997.</description>
+      <pubDate>Thu, 13 Oct 2016 09:40:43 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5012848/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/13/644x322/5012847_3_2f69_dario-fo-en-juin-2016_ccadd7806ce19688458333440fa1fc81.jpg" type="image/jpeg" length="25438"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/afrique/article/2016/10/10/georges-balandier-passeur-de-l-africanisme-et-de-l-anthropologie_5011145_3212.html</link>
+      <title>Georges Balandier, passeur de l’africanisme et de l’anthropologie</title>
+      <description>François Gaulme explique comment celui qui fut son professeur a véritablement créé une école à la Sorbonne, contrairement à ce qu’affirme Jean Copans.</description>
+      <pubDate>Mon, 10 Oct 2016 13:30:09 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5011145/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/10/644x322/5011143_3_bae7_l-anthropologue-francais-georges-balandier-a_71d2be36e79f6d1b156c40b81564fab0.jpg" type="image/jpeg" length="32203"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/10/andrzej-wajda-la-conscience-morale-des-polonais_5010895_3382.html</link>
+      <title>Andrzej Wajda, la conscience morale des Polonais</title>
+      <description>Le cinéaste, mort le 9 octobre à 90 ans, était la mémoire vivante de l’histoire de son pays, de ses combats, de ses tragédies et de ses victoires.</description>
+      <pubDate>Mon, 10 Oct 2016 09:04:25 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5010895/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/10/644x322/5011097_3_8ed1_andrzej-wajda-lors-de-la-sortie-de_d9a46854c15616e58ca0729161642f90.jpg" type="image/jpeg" length="25281"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/10/le-cineaste-polonais-andrzej-wajda-est-mort_5010745_3382.html</link>
+      <title>Le cinéaste polonais Andrzej Wajda est mort</title>
+      <description>L’auteur de « L’Homme de fer », Palme d’or au Festival de Cannes en 1981, avait 90 ans. Cet artiste engagé a incarné la lutte pour une Pologne libre.</description>
+      <pubDate>Mon, 10 Oct 2016 01:01:27 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5010745/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/10/644x322/5010744_3_ae4d_andrzej-wajda-lors-de-la-diffusion-de_b9fc3a529432734f35c1c0ddaaf5848a.jpg" type="image/jpeg" length="25018"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/08/pierre-tchernia-homme-de-television-est-mort_5010436_3382.html</link>
+      <title>L’homme de télévision Pierre Tchernia est mort</title>
+      <description>Retracer la carrière de « Monsieur cinéma », c’est parcourir soixante ans d’histoire de la télévision, de la Radiodiffusion française à la télévision numérique terrestre. « L’Ami public nº 1 » est mort à 88 ans.</description>
+      <pubDate>Sat, 08 Oct 2016 12:16:51 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5010436/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/08/644x322/5010480_3_1ef3_pierre-tchernia-est-photographie-lors-de-la_0745d1c9e2d006dca5a71b2a8453138e.jpg" type="image/jpeg" length="32907"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/05/la-mort-de-georges-balandier-sociologue-specialiste-de-l-afrique_5008603_3382.html</link>
+      <title>La mort de Georges Balandier, sociologue, spécialiste de l’Afrique</title>
+      <description>Mort le 5 octobre à l’âge de 95 ans, il a occupé toutes les positions institutionnelles dans le champ français de la recherche en sciences sociales au cours de la seconde moitié du XXe siècle.</description>
+      <pubDate>Wed, 05 Oct 2016 13:04:05 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5008603/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/05/644x322/5008751_3_52c8_l-anthropologue-francais-georges-balandier-a_58bd5d9643cfb958173c05401509ab5e.jpg" type="image/jpeg" length="34714"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/04/deces-de-l-un-des-deux-derniers-survivants-du-massacre-d-oradour-sur-glane_5008207_3382.html</link>
+      <title>Décès de l’un des deux derniers survivants du massacre d’Oradour-sur-Glane</title>
+      <description>Jean-Marcel Darthout, mort à l’âge de 92 ans, avait l’habitude de dire : « J’ai toujours eu beaucoup de chance dans la vie, et ça a commencé ce jour-là. »</description>
+      <pubDate>Tue, 04 Oct 2016 20:47:06 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5008207/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/04/644x322/5008206_3_ed88_l-eglise-du-village-martyr-le-30-aout-2013_e14016c28e8fc4fdb0656fb0c6586f1c.jpg" type="image/jpeg" length="65687"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/10/03/mort-de-la-peintre-americaine-shirley-jaffe_5007264_3382.html</link>
+      <title>Mort de la peintre américaine Shirley Jaffe</title>
+      <description>Installée à Paris depuis 1949, l’artiste est décédée le 29 septembre à l’âge de 92 ans. Elle laisse derrière elle une œuvre riche.</description>
+      <pubDate>Mon, 03 Oct 2016 11:21:38 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5007264/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/10/03/644x322/5007263_3_cbe4_shirley-jaffe-dans-son-atelier-parisien-en-2009_fcd067a067a4a22059fe75f656a9a6e8.jpg" type="image/jpeg" length="24844"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/musiques/article/2016/10/03/sir-neville-marriner-le-pere-de-l-academy-of-saint-martin-in-the-fields-est-mort_5007111_1654986.html</link>
+      <title>Sir Neville Marriner, le père de l’Academy of Saint Martin in the Fields, est mort</title>
+      <description>Le violoniste et chef britannique a créé l’un des meilleurs orchestres londoniens.</description>
+      <pubDate>Mon, 03 Oct 2016 09:05:27 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5007111/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/10/03/644x322/5007110_3_f274_le-violoniste-et-chef-d-orchestre-neville-ma_4643213144e7712dc3aa3e67570ea04f.jpg" type="image/jpeg" length="32649"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/bande-dessinee/article/2016/09/30/mort-du-dessinateur-et-scenariste-de-bande-dessinee-ted-benoit_5006359_4420272.html</link>
+      <title>Mort du dessinateur et scénariste de bande dessinée Ted Benoît</title>
+      <description>Il avait notamment pris la relève d’Edgar P. Jacobs pour « L’Affaire Francis Blake » (1996) et « L’Etrange Rendez-vous » (2001).</description>
+      <pubDate>Fri, 30 Sep 2016 16:57:29 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5006359/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/09/30/644x322/5006358_3_ffe9_le-dessinateur-ted-benoit-lors-du-29e-festival_e1a4dbde155be7ba2e19577a770662a2.jpg" type="image/jpeg" length="35915"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/proche-orient/video/2016/09/28/mort-de-shimon-peres-le-gouvernement-israelien-observe-une-minute-de-silence_5004975_3218.html</link>
+      <title>Mort de Shimon Pérès : le gouvernement israélien observe une minute de silence</title>
+      <description>L’ancien président et premier ministre israélien Shimon Pérès, infatigable promoteur de la paix avec les Palestiniens, est mort le 28 septembre à l’âge de 93 ans, deux semaines après avoir été victime d’une attaque cérébrale. Le premier ministre israélien Benyamin Nétanyahou a salué un pilier de la gauche et un visionnaire.</description>
+      <pubDate>Wed, 28 Sep 2016 16:39:10 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5004975/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/09/28/644x322/5004974_3_579c_israeli-prime-minister-benjamin-netanyahu-is_b2cded333369ed3f03ed7836d73b9719.jpg" type="image/jpeg" length="21592"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/09/28/shimon-peres-le-politicien-controverse-en-israel-devenu-figure-historique_5004558_3382.html</link>
+      <title>Shimon Pérès, « l’un des politiques qui a le mieux réussi, l’un des plus perspicaces, l’un des plus clivants »</title>
+      <description>Les médias israéliens sont revenus sur la perception de l’ancien président, adulé à l’étranger et critiqué pendant longtemps dans son pays.</description>
+      <pubDate>Wed, 28 Sep 2016 06:46:44 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5004558/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/09/28/644x322/5004557_3_6b80_le-president-americain-barack-obama-a-ga_c6c94a8150447d563b5f05f6def91852.jpg" type="image/jpeg" length="39320"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/portfolio/2016/09/28/shimon-peres-en-images-une-vie-au-service-d-israel_5004527_3382.html</link>
+      <title>Shimon Pérès en images : une vie au service d’Israël</title>
+      <description>L’ancien président israélien, mort mercredi à 93 ans, a été dix-huit fois ministre ou premier ministre. De la naissance de l’Etat hébreu aux espoirs déçus de la paix, son destin est intimement lié à celui de la terre qu’il a rejointe en 1934, à 11 ans.</description>
+      <pubDate>Wed, 28 Sep 2016 06:20:20 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5004527/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/09/28/644x322/5004525_3_fc18_avec-le-president-egyptien-hosni-moubarak-l_c59cb50a21a44b3e4546f5c3ada73c15.jpg" type="image/jpeg" length="36208"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/09/28/apres-la-mort-de-shimon-peres-les-dirigeants-saluent-la-memoire-d-un-homme-de-paix_5004511_3382.html</link>
+      <title>Après la mort de Shimon Pérès, des hommages en mémoire d’un « homme de paix »</title>
+      <description>Plusieurs responsables mondiaux ont rendu hommage à l’ancien président israélien, mort dans la nuit de mardi à mercredi.</description>
+      <pubDate>Wed, 28 Sep 2016 05:28:25 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5004511/</guid>
+      <enclosure url="https://s2.lemde.fr/image/2016/09/28/644x322/5004555_3_013b_l-annonce-de-la-mort-du-president-israelien-le_ab360edcc24a9efc84325828764d6809.jpg" type="image/jpeg" length="29844"/>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/09/25/hollande-salue-la-memoire-d-une-figure-marquante-du-judaisme-francais_5003081_3382.html</link>
+      <title>Hollande salue la mémoire d’une « figure marquante du judaïsme français »</title>
+      <description/>
+      <pubDate>Sun, 25 Sep 2016 15:17:03 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/5003081/</guid>
+    </item>
+    <item>
+      <link>https://www.lemonde.fr/disparitions/article/2016/09/11/greta-friedman-la-femme-du-baiser-vole-de-times-square-est-morte_4995858_3382.html</link>
+      <title>Greta Friedman, la femme du « baiser volé » de Times Square est morte</title>
+      <description>Le 14 août 1945, elle fut embrassée par un marin de l’US Navy fou de joie à l’annonce de la capitulation du Japon.</description>
+      <pubDate>Sun, 11 Sep 2016 15:00:10 +0200</pubDate>
+      <guid isPermaLink="true">https://www.lemonde.fr/tiny/4995858/</guid>
+      <enclosure url="https://s1.lemde.fr/image/2016/09/11/644x322/4995856_3_a6dd_la-photographie-d-alfred-eisenstaedt-devint-r_0375d3f31f992cc662118f739c308c57.jpg" type="image/jpeg" length="32091"/>
+    </item>
+  </channel>
+</rss>

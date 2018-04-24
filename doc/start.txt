@@ -1,0 +1,18 @@
+
+-----
+INSTALL
+-----
+npm install
+npm run typings install
+
+------
+ RUN
+------
+ng serve
+
+------
+ BUILD
+------
+ng build
+
+ng build --prod --base-href=/phpBB3/disparitions/ng2/

@@ -1,0 +1,80 @@
+WIGD - Angular 2
+----------------
+
+Requirements
+-------------
+
+User is authenticated with phpBB
+
+User can create a list of persons (max 10 / year)
+User can manage an extra list of 5 persons (and edit it at anytime)
+User can reorder the list
+User can edit the list (until 15/01)
+User can see details of each person (using wikipedia link)
+User can not add dead people
+
+User can see a dashboard showing:
+	- Ranking
+	- List of the latest deads
+	- List of other users
+
+When a person dies on the list of the user, the rank is cleared, points added to its total, and the person added to a list for history
+If the Rank 1 dies, the user can reorder its list (will see)
+
+
+Scores:
+	Rank 	Points
+	1		20
+	2		15
+	3		15
+	4		10
+	5		10
+	6		10
+	7		10
+	8		5
+	9		5
+	10		5
+
+	11		2
+	12		2
+	13		2
+	14		2
+	15		2
+==================================
+
+User:
+	- name
+	- points
+	- Person[]
+	- History Person[]
+	- last edit date ?
+	- priviledges ? (admin ?)
+
+Person:
+	- id
+	- rank (points)
+	- name
+	- DOB (to calculate age)
+	- DOD (null until it happens)
+	- wikipedia link
+	- creation date
+
+==================================
+
+Navigation:
+
+	Dashboard:
+		- Ranking --> with link to user's list
+		- List of latest deads (https://petscan.wmflabs.org/?psid=556690)
+		- Health news ?
+		- Link to My list (or MyList ?)
+
+
+==================================
+
+API
+
+Brit.../ng2-list.php
+ - ?user=me --> Returns current User (with lists)
+ - ?user=me&action=setList&data=... (data is the list only)
+ - ?users --> Returns all users (with lists)

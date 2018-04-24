@@ -1,0 +1,8 @@
+<h2>{{ user.name }}'s List - {{ user.points }} points</h2>
+<p>Last Edition: {{ getEditionDate() | date }}</p>
+
+<app-deads [deads]="user.deads"></app-deads>
+<div class="spacer"></div>
+<app-persons [persons]="user.persons" [readOnly]="readOnly"></app-persons>
+<div class="hidden-md-up spacer"></div>
+<div class="hidden-md-up delimiter"></div>

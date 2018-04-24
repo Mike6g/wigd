@@ -1,0 +1,27 @@
+<h2>Ranking
+<button class="btn" (click)="getUsers()" [disabled]="loading">
+	<i class="fa fa-refresh" [class.fa-spin]="loading" aria-hidden="true"></i>
+</button>
+</h2>
+<div class="table-responsive">
+	<table class="table table-sm table-striped table-hover">
+		<thead class="thead-inverse">
+			<tr>
+				<th>Rank</th>
+				<th>Name</th>
+				<th>Points</th>
+			</tr>
+		</thead>
+		<tr *ngFor="let user of users; let ind = index;" 
+		(click)="select(user)" 
+		[class.selected]="user === selectedUser">
+		<td class="badge">{{ ind +1 }}</td>
+		<td>{{user.name}}</td>
+		<td>{{user.points}}</td>
+	</tr>
+</table>
+</div>
+<div class="delimiter"></div>
+<div *ngIf="selectedUser">
+	<app-user [user]="selectedUser" [readOnly]="true"></app-user>
+</div>

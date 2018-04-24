@@ -1,0 +1,62 @@
+<div *ngIf="!readOnly && canAdd()" class="form-group">
+
+  <label for="name" class="hidden-md-down">Add a name</label>
+  <input
+  auto-complete
+  [source]="autoComplete"
+  [(ngModel)]="name"
+  placeholder="Search for a name"
+  min-chars="2"
+  class="form-control"
+  />
+  <button (click)="add()" class="btn btn-default">Add</button>
+</div>
+<span *ngIf="persons.length > maxLength">Don't forget to remove dead people!</span>
+
+{{persons.length}} persons in this list<br/>
+<div class="table-responsive">
+  <table class="persons table table-sm table-hover"
+  dnd-sortable-container [sortableData]="persons">
+  <thead class="thead-inverse">
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Points</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tr *ngFor="let person of persons; let ind = index" 
+  (click)="select(person)" 
+  [class.selected]="person === selectedPerson" 
+  [class.dead]="person.dod"
+  dnd-sortable [sortableIndex]="ind"
+  [dragEnabled]="!readOnly"
+  (onDragSuccess)="reorder($event)">
+  <td class="badge">{{person.rank}}</td>
+  <td width="90px">
+    <img *ngIf="person.image" src='{{person.image}}' class="img-fluid img-circle" [class.selected]="person === selectedPerson" >
+  </td>
+  <td [class.replace]="person.replace">
+    <span *ngIf="person !== selectedPerson && ind > 0">{{person.name}}</span>
+    <div *ngIf="person === selectedPerson || ind == 0">
+      <a href='{{person.wikiLink}}'>{{person.name }}</a><br>
+      <span *ngIf="!person.dod">{{person.age}} years old ({{person.dob | date}})</span>
+      <span *ngIf="person.dod">dead since {{person.dod | date}} ({{person.age}})</span>
+    </div>
+  </td>
+  <td>(<span *ngIf="person.age">{{person.age}}</span><span *ngIf="!person.age">...</span>)</td>
+  <td>{{person.points}}</td>
+  <td>
+    <button *ngIf="!readOnly" class="btn delete"
+    (click)="delete(person); $event.stopPropagation()">x</button>
+  </td>
+</tr>
+</table>
+</div>
+
+<div *ngIf="!readOnly" >
+  <button (click)="saveList()" class="btn btn-default" [disabled]="isPristine">Save</button>
+  <button (click)="refresh()" [disabled]="refreshing" class="btn"><i [class.fa-spin]="refreshing" class="fa fa-refresh" aria-hidden="true"></i></button>
+</div>

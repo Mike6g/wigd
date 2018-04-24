@@ -4,5 +4,7 @@
 // The list of which env maps to which file can be found in `angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  britBaseURL: 'https://90.112.24.7/phpBB3/disparitions/',
+  forceUser: '?forceUser=Mike'
 };

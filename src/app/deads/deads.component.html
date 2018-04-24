@@ -1,0 +1,12 @@
+<div *ngIf="deads.length > 0" class="row">
+  <div class="col-xs-1">Points</div>
+  <div class="col-xs-1"></div>
+  <div class="col-xs-5">Name</div>
+  <div class="col-xs-5">DOD</div>
+</div>
+<div class="row" *ngFor="let dead of deads; let ind = index">
+  <div class="col-xs-1">{{dead.points}}</div>
+  <div class="col-xs-1"><img *ngIf="dead.image" src='{{dead.image}}' class="img-fluid img-circle"></div>
+  <div class="col-xs-5"><a href='{{dead.wikiLink}}'>{{dead.name}}</a></div>
+  <div class="col-xs-5">{{dead.dod | date}} at {{dead.age}}</div>
+</div>

@@ -1,0 +1,97 @@
+.persons .dead {
+	/*text-decoration: line-through;*/
+	background-color: black;/*#EEC811;*/
+	color:white;
+}
+.persons .replace {
+	/* background-color: orange; */
+}
+.persons .replace::before { 
+    content: url('./assets/coffin_white_24px.png');
+    /*"Dead -";*/
+}
+
+
+.persons tr:first-child img{
+	height:80px;
+}
+.persons tr:first-child .badge{
+	background-color: #C98910;
+}
+/*
+.persons tr td {
+  max-height: 0;
+  padding: 0 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  transition: max-height 0.3s, padding 0.3s;
+}*/
+/*.persons tr.active td div {
+  max-height: 100px;
+  padding: 10px 10px;
+  transition: max-height 0.6s, padding 0.6s;
+}*/
+
+.persons .badge {
+	/* display: inline-block; */
+	/* height: 2em; */
+	display: list-item;
+	color: white;
+	background-color: #607D8B;
+	margin-right: -1em;
+	border-radius: 4px 0 0 4px;
+}
+
+.persons img {
+	border-radius: 50%;
+	height:30px;
+	margin-left: 5px;
+	transition: height 0.5s linear;
+	-moz-transition: height 0.5s linear;
+	-webkit-transition: height 0.5s linear;
+	/*
+	transition: max-height 1.5s ease cubic-bezier(0, 1.05, 0, 1);
+    max-height: 30px;
+    */
+}
+.img-circle {
+	border-radius: 50%;
+	height:30px;
+	margin-left: 5px;
+}
+/*.persons div {
+	transition: max-height 1.5s ease cubic-bezier(0, 1.05, 0, 1);
+	-webkit-transition: max-height 1.5s ease cubic-bezier(0, 1.05, 0, 1);
+	-moz-transition: max-height 1.5s ease cubic-bezier(0, 1.05, 0, 1);
+    max-height: 30px;	
+}*/
+
+.persons tr td div {
+	overflow-y: hidden;
+}
+.persons tr:not(:first-child) .selected {
+  background-color: #DDD;
+  /*left: .1em;*/
+  /* height:95px; */
+  /*-webkit-transition: height 0.5s linear;*/
+   animation-name: enlarge;
+   animation-duration: 0.5s;	
+}
+.persons img.selected{
+	height:80px;
+/*	transition: height 0.5s linear;
+	-moz-transition: height 0.5s linear;
+	-webkit-transition: height 0.5s linear;*/
+}
+/*.persons div.selected{
+	-webkit-transition: max-height 2s ease;
+    -moz-transition: max-height 2s ease;
+    transition: max-height 2s ease;
+	max-height:100px;
+}*/
+
+/* The animation code */
+@keyframes enlarge {
+    from {height:30px;}
+    to {height:80px;}
+}

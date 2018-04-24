@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.18",
-    "name": "wigd"
+    "name": "wigd2"
   },
   "apps": [
     {
@@ -18,9 +18,16 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap.css",
+        "../node_modules/ng2-toastr/bundles/ng2-toastr.min.css",
+        "../node_modules/font-awesome/css/font-awesome.min.css",
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.js",
+        "../node_modules/tether/dist/js/tether.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.js"
+      ],
       "environments": {
         "source": "environments/environment.ts",
         "dev": "environments/environment.ts",

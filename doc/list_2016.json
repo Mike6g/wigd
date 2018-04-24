@@ -1,0 +1,104 @@
+{
+	"name": "Mike",
+	"persons": [{
+		"fullName": "Beno\u00eet XVI",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Beno\u00eet XVI",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a4\/Benedykt_XVI_(2010-10-17)_4.jpg\/34px-Benedykt_XVI_(2010-10-17)_4.jpg",
+		"bday": "1927-04-16",
+		"dday": "",
+		"age": 88,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Charles Aznavour",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Charles Aznavour",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b7\/2014.06.23._Charles_Aznavour_Fot_Mariusz_Kubik_02.jpg\/37px-2014.06.23._Charles_Aznavour_Fot_Mariusz_Kubik_02.jpg",
+		"bday": "1924-05-22",
+		"dday": "",
+		"age": 91,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Roger Hanin",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Roger Hanin",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ac\/Roger_Hanin_1997_(crop).jpg\/37px-Roger_Hanin_1997_(crop).jpg",
+		"bday": "1925-10-20",
+		"dday": "2015-02-11",
+		"age": 90,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Jacques Chirac",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Jacques Chirac",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/be\/Jacques_Chirac_2_(cropped).jpg\/34px-Jacques_Chirac_2_(cropped).jpg",
+		"bday": "1932-11-29",
+		"dday": "",
+		"age": 83,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "VGE",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/VGE",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/15\/Val\u00e9ry_Giscard_d\u2019Estaing_1978(3).jpg\/33px-Val\u00e9ry_Giscard_d\u2019Estaing_1978(3).jpg",
+		"bday": "1926-02-02",
+		"dday": "",
+		"age": 89,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Jeanne Moreau",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Jeanne Moreau",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/San_Sebastian_Film_Festival_Jeanne_Moureau_cropped.jpg\/39px-San_Sebastian_Film_Festival_Jeanne_Moureau_cropped.jpg",
+		"bday": "1928-01-23",
+		"dday": "",
+		"age": 87,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Bouteflika",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Bouteflika",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5b\/Abdelaziz_Bouteflika_casts_his_ballot_in_May_10th's_2012_legislative_election_(cropped).jpg\/38px-Abdelaziz_Bouteflika_casts_his_ballot_in_May_10th's_2012_legislative_election_(cropped).jpg",
+		"bday": "1937-03-02",
+		"dday": "",
+		"age": 78,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Simone Veil",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Simone Veil",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c6\/Simone_Veil_(1993)_by_Erling_Mandelmann.jpg\/34px-Simone_Veil_(1993)_by_Erling_Mandelmann.jpg",
+		"bday": "1927-07-13",
+		"dday": "",
+		"age": 88,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Philippe Mountbatten",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Philippe Mountbatten",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e6\/Prince_Philip_March_2015.jpg\/31px-Prince_Philip_March_2015.jpg",
+		"bday": "1921-06-10",
+		"dday": "",
+		"age": 94,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}, {
+		"fullName": "Hugh Hefner",
+		"wikiLink": "https:\/\/fr.wikipedia.org\/wiki\/Hugh Hefner",
+		"persThumb": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Hugh_Hefner_Glamourcon_2010.jpg\/33px-Hugh_Hefner_Glamourcon_2010.jpg",
+		"bday": "1926-04-09",
+		"dday": "",
+		"age": 89,
+		"editing": false,
+		"isDebug": false,
+		"myObservableArray": []
+	}]
+}
